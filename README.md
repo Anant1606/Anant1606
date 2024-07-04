@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anantsharma</h1>
+<h1 align="center">Hi 👋, I'm Anant sharma</h1>
 <h3 align="center">A Undergraduate from Thapar University</h3>
 
 <img
@@ -21,7 +21,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/sharath.345" target="blank"
+  <a href="https://instagram.com/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -29,7 +29,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/csharath3" target="blank"
+  <a href="https://twitter.com/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -37,14 +37,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://codepen.io/sharath4567" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-      alt="sharath4567"
-      height="30"
-      width="40"
-  /></a>
+
 </p>
 
 ###
