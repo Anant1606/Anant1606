@@ -8,7 +8,7 @@
   src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 />
 
-- 🌱 I’m currently learning **Machine Learning , Devops** - 📫 Contact
+- 🌱 I’m currently learning **Machine Learning** - 📫 Contact
 **anantsharma.1839@gmail.com** | **asharma23_be22@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="csharath-chandra"
+      alt="anant"
       height="30"
       width="40"
   /></a>
@@ -25,7 +25,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="sharath.345"
+      alt="anant1"
       height="30"
       width="40"
   /></a>
@@ -33,7 +33,7 @@
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="csharath3"
+      alt="anant2"
       height="30"
       width="40"
   /></a>
