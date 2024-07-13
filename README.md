@@ -42,6 +42,9 @@
 </p>
 
 </p>
+<div>
+    <a href="#"><img alt="Anant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anant1606&theme=react-dark" /></a>
+</div>
 
 ###
 
@@ -122,5 +125,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anant1606&" alt="Anant1606" /></p>
 
+<div align="center">
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/Anant1606/Anant1606/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+    ![github contribution grid snake animation](https://raw.githubusercontent.com/Anant1606/Anant1606/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+</div>
 
 
