@@ -125,11 +125,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anant1606&" alt="Anant1606" /></p>
 
-<div align="center">
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/Anant1606/Anant1606/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
- ![github contribution grid snake animation](https://raw.githubusercontent.com/Anant1606/Anant1606/output/github-contribution-grid-snake-white.svg#gh-light-mode-only)
-
-</div>
 
 
