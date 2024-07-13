@@ -113,5 +113,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anant1606&show_icons=true&locale=en&layout=compact" alt="Anant1606" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant1606&show_icons=true&locale=en" alt="Anant1606" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anant1606&" alt="Anant1606" /></p>
+
 
 
