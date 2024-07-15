@@ -37,14 +37,16 @@
       height="30"
       width="40"
   /></a>
-    <a href="https://leetcode.com/u/Anant1606/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
-      alt="anant2"
-      height="30"
-      width="40"
-  /></a>
+ <a href="https://leetcode.com/u/Anant1606/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"
+    alt="anant2"
+    height="30"
+    width="40"
+  />
+</a>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Anant1606&label=Profile%20views&color=0e75b6&style=flat" alt="Anant1606" />
 </p>
