@@ -128,6 +128,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anant1606&show_icons=true&locale=en" alt="Anant1606" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anant1606&" alt="Anant1606" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anant1606&column=8&theme=onedark" />
+</div>
 
 
 
